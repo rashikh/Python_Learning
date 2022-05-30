@@ -1,2 +1,2 @@
-# Python_Learning
-Important Python scripts and description for key concept
+# Python_walkthrough
+Key concept and snippet of code
